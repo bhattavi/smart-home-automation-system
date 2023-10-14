@@ -1,0 +1,22 @@
+# Node.js files
+node_modules/
+npm-debug.log
+
+# Environment variables
+.env
+
+# Log files
+logs/
+
+# User uploads (if applicable)
+uploads/
+
+# IDE-specific files (e.g., Visual Studio Code)
+.vscode/
+
+# Mac-specific files
+.DS_Store
+
+# Dependency lock files
+yarn.lock
+package-lock.json
