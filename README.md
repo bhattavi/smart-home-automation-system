@@ -59,18 +59,21 @@ To set up the Smart Home Automation System locally for development or testing, f
 
 2. Set up the backend server:
 
+    ```bash
     cd backend
     npm install
     npm start
 
 3. Set up the web-based dashboard:
 
+    ```bash
     cd frontend
     npm install
     npm start
 
 4. Set up the mobile app:
 
+    ```bash
     cd mobile-app
     npm install
     npx react-native run-ios  # For iOS
